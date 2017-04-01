@@ -1,6 +1,5 @@
 #!/bin/bash
-mkdir /root/data
-mkdir /root/aria2c
+
 chmod 755 /root/aria2c/aria2c
 chmod 755 /root/aria2c/darkhttpd
 
